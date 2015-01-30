@@ -17,6 +17,7 @@ namespace project2
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            System.Console.WriteLine("한경ITS 화이팅~~! 힘냅시다.");
         }
     }
 }

@@ -1,1 +1,2 @@
 C:\Users\rcnboys\Documents\GitHub\project2\project2\bin\Debug\project2.exe.config
+C:\Users\rcnboys\Desktop\project2\project2\bin\Debug\project2.exe.config
